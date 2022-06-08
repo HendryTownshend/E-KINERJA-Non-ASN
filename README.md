@@ -9,3 +9,7 @@
 Fitur : 
 - Input, update, delete data kegiatan harian
 - Cetak laporan bulanan
+
+Gunakan username dan password dibawah ini :
+	username : hendry123
+	password : sasa8090
