@@ -17,3 +17,9 @@ Gunakan username dan password dibawah ini untuk dapat mengakses aplikasi 👍
 username : hendry123
 
 password : sasa8090
+
+**Masuk sebagai admin**
+
+username : admin
+
+password : admin8090
